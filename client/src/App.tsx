@@ -34,5 +34,5 @@ function App() {
     </QueryClientProvider>
   );
 }
-//file
+//files
 export default App;
